@@ -1,4 +1,4 @@
-# Product Modal Project built with Tailwind CSS
+## Product Modal Project built with Tailwind CSS
 
-
+- Desktop view: 
  
